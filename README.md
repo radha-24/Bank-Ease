@@ -1,7 +1,7 @@
-# Bank Management System
+# Bank Ease
 
 ## Overview
-The Bank Management System is a Java-based application designed to handle basic banking operations. The system allows users to perform actions such as balance inquiry, deposit, withdrawal, and viewing transaction history. It utilizes a MySQL database for storing user and transaction data.
+The Bank Ease is a Java-based application designed to handle basic banking operations. The system allows users to perform actions such as balance inquiry, deposit, withdrawal, and viewing transaction history. It utilizes a MySQL database for storing user and transaction data.
 
 ## Features
 - **User Authentication:** Secure login and signup processes.
